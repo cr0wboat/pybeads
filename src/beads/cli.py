@@ -1,4 +1,4 @@
-"""CLI entry point for beads-py (bd). Built with Typer + Rich.
+"""CLI entry point for pybeads (bd). Built with Typer + Rich.
 
 Usage:
     bd init                  Initialize in current directory
