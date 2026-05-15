@@ -1,4 +1,4 @@
-# beads-py — `bd`
+# pybeads — `bd`
 
 Distributed graph issue tracker for AI agents — Python port of [beads](https://github.com/gastownhall/beads).
 
@@ -8,10 +8,10 @@ Distributed graph issue tracker for AI agents — Python port of [beads](https:/
 
 ```bash
 # Install
-pip install beads-py
+pip install pybeads
 
 # Or from source
-cd beads-py && pip install -e .
+cd pybeads && pip install -e .
 
 # Initialize in your project
 cd your-project
