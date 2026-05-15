@@ -1,4 +1,4 @@
-"""beads-py — A distributed graph issue tracker for AI agents.
+"""pybeads — A distributed graph issue tracker for AI agents.
 
 Python port of beads (bd), powered by SQLite instead of Dolt.
 """
